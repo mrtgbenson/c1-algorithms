@@ -4,7 +4,7 @@ my_number=int() #declare an integer variable
 your_number=int()
 
 your_number=int(input("Please enter a whole number: ")
-my_number=0 #sets and initial value of 0
+my_number=0 #sets an initial value of 0
 
 my_number=your_number
 my_number=your_number*3
