@@ -20,7 +20,7 @@ print("Divide by 3 ....")
 print(my_number)
 
 my_number=my_number-your_number
-print("Now subtract the number that you gave me..."
+print("Now subtract the number that you gave me...")
 print("And the number is......")
 print(my_number)
 
